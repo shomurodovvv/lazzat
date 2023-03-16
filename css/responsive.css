@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  main{
+    display: flex;
+    flex-direction: column;
+  }
+  .box{
+    width: 100%;
+  }
+  input{
+    width: 60%;
+  }
+  .btnObuna{
+    width: 180px;
+  }
+
+  footer{
+    background-size: cover;
+  }
+}
